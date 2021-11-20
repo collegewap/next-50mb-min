@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <title>
+      This is a heading
+    </title>
+    <meta
+      content="This is a description"
+      name="description"
+    />
+  </div>
+</DocumentFragment>
+`;
